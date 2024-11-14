@@ -1,0 +1,28 @@
+table,
+td {
+  border: 1px solid black;
+}
+
+p {
+  color: green;
+}
+
+table {
+  table-layout: fixed;
+  width: 500px;
+  border: 1px solid black;
+  padding: 2px;
+  margin: 1px;
+}
+
+h2 {
+  text-align: center;
+}
+
+td {
+  background-color: lightgray;
+}
+
+#r1 {
+  background-color: aqua;
+}
